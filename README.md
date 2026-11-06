@@ -32,3 +32,7 @@ Actualmente el repositorio se encuentra en **fase inicial de arquitectura y dise
 ---
 
 *Para colaborar o reportar ideas, revisa nuestro archivo `CONTRIBUTING.md`.*
+
+## 📄 Licencia
+
+Este proyecto se distribuye bajo la licencia **MIT**. Consulta el archivo `LICENSE` para más información.
